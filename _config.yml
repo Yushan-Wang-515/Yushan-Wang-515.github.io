@@ -190,7 +190,7 @@ giscus:
     category-id: DIC_kwDOM71b984CjGok
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
-<script src="https://giscus.app/client.js"
+<script src= "https://giscus.app/client.js"
         data-repo=""
         data-repo-id=""
         data-category=""
